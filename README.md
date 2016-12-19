@@ -1,8 +1,5 @@
 # YYStarGradeView
-星星评分，支持手势。
-
-最终效果动画：
-![starView.gif](http://upload-images.jianshu.io/upload_images/840747-6694c46e9b9b7bed.gif?imageMogr2/auto-orient/strip)
+星星评分，支持手势。最终效果动画：![starView.gif](http://upload-images.jianshu.io/upload_images/840747-6694c46e9b9b7bed.gif?imageMogr2/auto-orient/strip)
 
 如何使用？这个非常简单，引入头文件，简单初始化一下就好了,是不是非常简单啊？
 ```objc
